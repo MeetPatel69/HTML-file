@@ -3,5 +3,6 @@ using namesapce std;
 
 int main()
 {
- cout<<"hellllooooooo"<<endl;
+ cout<<"hellllooooooo";
+ return 0;
 }
