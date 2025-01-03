@@ -1,8 +1,8 @@
 #include<iostream>
-using namesapce std;
+
 
 int main()
 {
- cout<<"hellllooooooo";
+ std::cout<<"hellllooooooo";
  return 0;
 }
